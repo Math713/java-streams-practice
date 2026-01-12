@@ -19,8 +19,5 @@ public class StudentGradeStatistics{
         System.out.println("Highest grade: " + max);
         System.out.println("Average: " + avg);
         System.out.println("Quantity of approved: " + approved);
-
-
-
     }
 }
